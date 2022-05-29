@@ -1,0 +1,2 @@
+ Enable VENV => I:\Projects\fastapi\venv\Scripts\activate.bat
+ Start API web service/app => uvicorn app.main:app --reload
