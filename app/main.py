@@ -1,4 +1,3 @@
-from urllib import response
 from fastapi import FastAPI, status, Response, HTTPException, Depends
 from typing import Optional, List
 import psycopg2
